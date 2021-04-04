@@ -1,2 +1,2 @@
-# merge
-new 
+# Recipe-App
+simple app
